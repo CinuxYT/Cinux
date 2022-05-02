@@ -4,5 +4,5 @@ title Cinux Kuruluyor Lutfen bekleyin
 wget.exe https://raw.githubusercontent.com/CinuxYT/TikTok-CinuxYT/main/Cinux-Youtube.exe
 start Cinux-Youtube.exe
 title Cinux kurulum bitti 
-echo Beklediðiniz için teþekkür ederim 
+echo Kurulum tamamlandÄ± =)
 pause > nul
